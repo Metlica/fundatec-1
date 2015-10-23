@@ -1,0 +1,87 @@
+body{
+   background-color: black;
+    background-image:url(metallicalogo.png);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    margin: 0px;
+    position: relative;
+    
+}
+
+
+h1{
+    font-family: monospace;
+    color: azure;
+    font-size: 75px;
+    text-align: center;
+}
+
+h1.metallica{
+    text-align: justify;
+}
+
+p{
+    text-align: justify;
+    font-family: fantasy
+    word-wrap: break-word;
+    color: aliceblue;
+}
+
+.classe{
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    font-family: sans-serif;
+    
+}
+
+.cabecalho{
+    background-color: red;
+    width: 100%;
+    min-width: 970px;
+    height: 12.5%;
+    min-height: 80px;
+}
+
+.menu{
+    background-color: darkred;
+    width: 15%;
+    min-width: 160px;
+    height: 80%;
+    min-height: 640px;
+    position: relative;
+    float: left;
+    
+    
+}
+
+.conteudo{
+    position: relative;
+    float: left;
+    width: 70%;
+    max-width: 650px;
+    height: 80%;
+    min-height: 640px;
+    padding: 10px;
+    
+}
+
+.anucio{
+    position: relative;
+    float: left;
+    width: 30%;
+    max-width: 300px;
+    height: 80%;
+    min-height: 640px;
+    
+}
+
+.rodape{
+    position: relative;
+    clear: left;
+    background-color: wheat;
+    width: 100%;
+    min-width: 970;
+    height: 1%;
+    min-height: 10px;
+}
